@@ -1,0 +1,71 @@
+body {
+    font-family: 'Ojuju', sans-serif;
+    margin: 0;
+    background-color: #d3d3d3;
+}
+h2, p, .readme-wrapper {
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color: blueviolet;
+}
+a:hover {
+    cursor: pointer;
+    font-weight: bolder;
+    color: red;
+}
+.highlight {
+    color: rosybrown;
+    font-weight: 400;
+}
+.boxes {
+    display: block;
+    margin: 1em 1em 1em 2em;
+    padding: 0em 0em 0em 0em;
+    border: solid blue;
+    border-radius: 25px;
+    width: 30em;
+}
+#box1 {
+    background: white;
+}
+#box2 {
+    
+    background: gray;
+}
+#box3 {
+    background: brown;
+}
+#box4 {
+    background: beige;
+}
+.images {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background: rgb(6, 189, 0);
+    position: relative;
+    left: 87px;
+    top: 115px;
+}
+h1 {
+    color: darkgreen;
+}
+.original {
+    color: darkblue;
+}
+.additional {
+    color: darkred;
+}
+ul {
+    border: solid black;
+    border-radius: 2px;
+    color: darkgoldenrod;
+}
+.star {
+    color: palevioletred;
+}
+#wars {
+    color: aqua;
+}
